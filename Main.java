@@ -1,6 +1,6 @@
 import java.util.Scanner;
     class Program {
-        public static void main(String[] args) {
+        public static void main(String args[]) {
             Scanner a =new Scanner(System.in);
             int ilk , iki , sonuc = 0;
             System.out.println("İlk sayıyı giriniz.");
